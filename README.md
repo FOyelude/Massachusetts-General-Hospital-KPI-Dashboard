@@ -17,11 +17,14 @@ The executive team required a comprehensive dashboard to gain visibility into th
 1. **Data Loading and Transformation:**
    - Loaded patient records into Power BI.
    - Transformed the data to ensure accuracy and consistency.
+  
+   **Data Structure Overview**
+   
 
-2. **Creating the Dashboard:**
+3. **Creating the Dashboard:**
    - Built the dashboard in Power BI to visualize KPIs.
    - Developed measures and calculated columns to analyze patient admissions, readmissions, average stay durations, and costs per visit.
-   - Filtered and cleaned data to ensure the inclusion of relevant information and removal of any duplicates or errors.
+   - Filtered and cleaned data to ensure the inclusion of relevant information and the removal of any duplicates or errors.
 
 ### KEY INSIGHTS
 - **How many patients have been admitted or readmitted over time?**
@@ -67,5 +70,16 @@ The executive team required a comprehensive dashboard to gain visibility into th
   - Despite this, Medicare covered over 11,000 encounters and 20,000 procedures, with total claimed costs exceeding $19 million, highlighting its significant financial contribution to patient care and its importance in the healthcare system.
 
 By leveraging Power BI for data visualization and analysis, I delivered a comprehensive KPI report that provided the executive team at Massachusetts General Hospital with actionable insights, aiding them in making informed decisions to improve hospital operations and patient care.
+
+- **RECOMMENDATIONS**
+
+   - Implement targeted follow-up and discharge programs for seniors and Native populations to reduce readmissions by enhancing post-discharge care.
+   - Continue improving hospital efficiency to maintain or reduce stay durations, particularly for non-ICU cases.
+   - Focus on refining care protocols for high-risk procedures and invest in research to improve outcomes for critically ill patients.
+   - Explore cost-control measures such as optimizing resource allocation, reducing unnecessary tests, and improving procurement efficiency to manage rising healthcare costs.
+   - Continue patient safety initiatives and focus on improving protocols for high-mortality procedures to sustain the downward trend in mortality rates.
+   - Work with insurers to expand coverage for essential procedures like ICU admissions and appendectomies, reducing financial burdens on patients.
+   - Review and refine clinical protocols for procedures with high readmission rates to minimize unnecessary repeat visits.
+   - Ensure continuous collaboration with Medicaid and Medicare to maintain coverage levels and financial support, especially for critical and high-cost care.
 
 [Click Link for full report](https://app.powerbi.com/groups/me/reports/cf5bba41-1a59-4452-9094-3e8577aa9c61/9bb7dcc2dd4123a8a7db?experience=power-bi)
