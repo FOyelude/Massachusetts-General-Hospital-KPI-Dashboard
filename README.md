@@ -1,5 +1,3 @@
-# Massachusetts-General-Hospital-KPI-Dashboard
-
 ## Project Description
 
 For the Maven Hospital Challenge, I acted as an Analytics Consultant for Massachusetts General Hospital (MGH). The task was to build a high-level KPI report using a subset of patient records. The purpose of the report was to provide the executive team with crucial insights into the hospital's recent performance.
@@ -19,14 +17,17 @@ The executive team required a comprehensive dashboard to gain visibility into th
    - Transformed the data to ensure accuracy and consistency.
   
    **Data Structure Overview**
-   ![DATA STRUCTURE](Massachusetts-General-Hospital-KPI-Dashboard/Hospital Data structure.PNG)
+   ![Hospital Data structure](https://github.com/user-attachments/assets/3136b647-aff5-4bf4-b8ba-72c89daae3b7)
+
 
 3. **Creating the Dashboard:**
    - Built the dashboard in Power BI to visualize KPIs.
    - Developed measures and calculated columns to analyze patient admissions, readmissions, average stay durations, and costs per visit.
    - Filtered and cleaned data to ensure the inclusion of relevant information and the removal of any duplicates or errors.
+     
+![Hospital Data CLeaning](https://github.com/user-attachments/assets/90ee3ccc-4ae2-49d4-976f-879ebf4b8133)
 
-   ![DATA CLEANING](Massachusetts-General-Hospital-KPI-Dashboard/Hospital Data CLeaning.PNG)
+   
 
 ### KEY INSIGHTS
 - **How many patients have been admitted or readmitted over time?**
