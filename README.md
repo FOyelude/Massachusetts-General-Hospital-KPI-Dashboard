@@ -19,12 +19,14 @@ The executive team required a comprehensive dashboard to gain visibility into th
    - Transformed the data to ensure accuracy and consistency.
   
    **Data Structure Overview**
-   
+   ![DATA STRUCTURE](Massachusetts-General-Hospital-KPI-Dashboard/Hospital Data structure.PNG)
 
 3. **Creating the Dashboard:**
    - Built the dashboard in Power BI to visualize KPIs.
    - Developed measures and calculated columns to analyze patient admissions, readmissions, average stay durations, and costs per visit.
    - Filtered and cleaned data to ensure the inclusion of relevant information and the removal of any duplicates or errors.
+
+   ![DATA CLEANING](Massachusetts-General-Hospital-KPI-Dashboard/Hospital Data CLeaning.PNG)
 
 ### KEY INSIGHTS
 - **How many patients have been admitted or readmitted over time?**
