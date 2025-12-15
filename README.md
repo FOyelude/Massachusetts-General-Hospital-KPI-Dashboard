@@ -86,3 +86,4 @@ By leveraging Power BI for data visualization and analysis, I delivered a compre
    - Ensure continuous collaboration with Medicaid and Medicare to maintain coverage levels and financial support, especially for critical and high-cost care.
 
 [Click This Link for the full DASHBOARD](https://app.powerbi.com/groups/me/reports/cf5bba41-1a59-4452-9094-3e8577aa9c61/9bb7dcc2dd4123a8a7db?experience=power-bi)
+and [Here for the Power BI file](https://github.com/FOyelude/Massachusetts-General-Hospital-KPI-Dashboard/blob/main/Hospital%20Analysis.pbix)
